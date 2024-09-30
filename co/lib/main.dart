@@ -1,5 +1,7 @@
+import 'package:co/bottom.dart';
 import 'package:co/ques1.dart';
 import 'package:co/ques2.dart';
+import 'package:co/ques3.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -33,7 +35,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Mycontainer()
+      home:ImageExample()
     );
   }
 }

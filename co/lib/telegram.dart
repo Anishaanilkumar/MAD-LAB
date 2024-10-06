@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-class HomeScreen extends StatelessWidget {
-  const HomeScreen ({super.key});
+class Home2Screen extends StatelessWidget {
+  const Home2Screen ({super.key});
 
   @override
   Widget build(BuildContext context) {
